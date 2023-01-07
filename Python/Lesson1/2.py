@@ -18,7 +18,7 @@ for number in list:
 print(summary)
 #change list
 list = [number + 17 for number in list]
-summary == 0
+summary = 0
 for number in list:
     while number > 0:
         sum = 0
